@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jason...
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning JavaScript and node js.
 - 💞️ I’m looking to collaborate on ...anything that will help me learn or anything where I can help you.
 - 📫 How to reach me ... email at jason.bauzon@gmail.com.
